@@ -10,5 +10,8 @@ Mobile
 1. https://typingland.higopage.com/
 2. https://apps.apple.com/us/app/type-the-bible/id1474720425
 
-Tips:
+Onboarding
+https://discord.com/channels/861730583092658206/1274938644221661265
+
+Tips
 - add a num-lock https://discord.com/channels/861730583092658206/894760876727472178/1395017894571802705
