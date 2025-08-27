@@ -4,7 +4,9 @@ Web apps
 1. https://monkeytype.com/
 1. https://www.keybr.com/
 1. https://type.cosmi.ai/
-2. https://andy23512.github.io/alnitak/
+1. https://andy23512.github.io/alnitak/
+1. https://typocalypsestorm.com/
+1. https://www.leftright.space/
 
 Mobile
 1. https://typingland.higopage.com/
