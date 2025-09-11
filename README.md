@@ -1,7 +1,7 @@
 Web apps
 1. https://www.iq-eq.io
 1. https://launchpad.charachorder.com/
-1. https://monkeytype.com/
+1. https://monkeytype.com/ or https://cctype.app/ (currently down)
 1. https://www.keybr.com/
 1. https://type.cosmi.ai/
 1. https://andy23512.github.io/alnitak/
