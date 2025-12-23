@@ -19,3 +19,4 @@ TODOs
 - read through https://discord.com/channels/861730583092658206/1274938644221661265
 - add a num-lock and Chang's mouse mode https://discord.com/channels/861730583092658206/894760876727472178/1395017894571802705
 - https://cdn.discordapp.com/attachments/1252813300257914880/1449887601610719436/CharaChorder_Cognitive_Acceleration_White_Paper.pdf?ex=694bbd4d&is=694a6bcd&hm=39e87f6b02409d25195d21272e2856965d4b3abfc87a61856b5c407fe1e83c40&
+- https://docs.charachorder.com/Device%20Manager.html
