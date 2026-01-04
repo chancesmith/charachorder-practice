@@ -7,6 +7,7 @@ Web apps
 1. https://andy23512.github.io/alnitak/
 1. https://typocalypsestorm.com/
 1. https://www.leftright.space/
+1. https://capplequoppe.github.io/charachorder-training/
 
 Mobile
 1. https://typingland.higopage.com/
